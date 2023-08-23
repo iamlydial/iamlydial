@@ -1,3 +1,5 @@
+  [![HitCount](https://hits.dwyl.com/iamlydial/{project}.svg?style=flat)](http://hits.dwyl.com/iamlydial/{project})
+
 <h1 align="center">👋</h1> 
 <h2 align="center">I'm Lydia!</h2> 
 
