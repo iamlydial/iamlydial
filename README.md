@@ -1,4 +1,4 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=iamlydial&color=FAC151)
+[GitHub Views](https://komarev.com/ghpvc/?username=iamlydial&color=FAC151)
 
 <h1 align="center">👋</h1> 
 <h2 align="center">I'm Lydia!</h2> 
