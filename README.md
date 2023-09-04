@@ -3,6 +3,19 @@
 <h1 align="center">👋</h1> 
 <h2 align="center">I'm Lydia!</h2> 
 
+---
+
+<h2 align="center"> Who am I?</h2> 
+<p>🤓 Full Stack Web Developer</p>
+<p>👩‍💻 Working on Web & App Development</p>
+<p>📝 I love compiling Code</p>
+<p>🎯 Goal : To be a better Developer</p>
+<p>📫 How to reach me: <a href="https://iamlydial.github.io/portfolio/">Here!</p>
+<p>💌 Fun Facts About Me :</p>
+<p>Love Yoga, Sports and Outdoor activities 🐼</p>
+<p>I am learning German 🙃</p>
+
+
 <p>A highly resourceful fullstack developer with 800 hours of front-end and back-end web development projects.</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlydial&size_weight=0.5&count_weight=0.5)
