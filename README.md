@@ -15,8 +15,11 @@
 <p>Love Yoga, Sports and Outdoor activities 🐼</p>
 <p>I am learning German 🙃</p>
 
+---
 
-<p>A highly resourceful fullstack developer with 800 hours of front-end and back-end web development projects.</p>
+<p>I am a Full-Stack developer with 1000+ hours of JS, React, Docker, Python, PHP, and Django work and prior successful US, LATAM, UK, and EU experience in eCommerce & Marketing Strategy, Cross Functional Team Management, Sales Agile Project Management, A/B Testing, and UX.</p>
+
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlydial&size_weight=0.5&count_weight=0.5)
 
