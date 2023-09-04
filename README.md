@@ -4,9 +4,9 @@
 <h2 align="center">I'm Lydia!</h2> 
 
 <p>A highly resourceful fullstack developer with 800 hours of front-end and back-end web development projects.</p>
-
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlydial&size_weight=0.5&count_weight=0.5)
-
+</p>
 ---
 
   ###  Languages 📋 
