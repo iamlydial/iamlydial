@@ -8,7 +8,12 @@
 - 🔭 I’m currently working on **Thread Clone**
 - 👯 I’m looking to collaborate on **Cool Projects**
 - 🌱 I’m currently learning **Nextjs, Django, C**
-
+- 👩‍💻 I love Working on Web & App Development
+- 🎯 Goal : To be a better Developer
+- 📫 How to reach me : <a href="https://iamlydial.github.io/portfolio/#contact"> Here!</a>
+- 💌 Fun Facts :
+- I love wellness, outdoor activities and food 🐼
+- English, Spanish, Italian, French and German speaker 🙃
 
 
 <div> <a href="https://www.linkedin.com/in/ydialavecchia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
