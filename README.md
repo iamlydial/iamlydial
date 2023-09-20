@@ -17,8 +17,10 @@
 
 
 <h3 align="center">Completed Projects</h3>
-- ✅ <u><a href="https://threads-six-sigma.vercel.app/">Thread Clone</a></u> : a Thread clone app in Nextjs, using MongoDB.
-- ✅ <u><a href="https://cryptoapp-rho-topaz.vercel.app/">Crypto App</a></u> : a React app playing with the CoinRakinking and BingNews APIs.
+
+- ✅ <u><a href="https://threads-six-sigma.vercel.app/">**Thread Clone**</a></u>: a Thread clone app in Nextjs, using MongoDB.
+- ✅ <u><a href="https://cryptoapp-rho-topaz.vercel.app/">**Crypto App**</a></u>: a React app playing with the CoinRakinking and BingNews APIs.
+
 
 <div> <a href="https://www.linkedin.com/in/ydialavecchia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/iamlydial" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
