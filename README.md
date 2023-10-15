@@ -15,10 +15,6 @@
 - I love wellness, outdoor activities and food 🐼
 - English, Spanish, Italian, French and German speaker 🙃
 
-| <img src="https://avatars.githubusercontent.com/u/15132045?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/123671831?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/104212130?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/104212130?v=4" width="100" height="100"> |
-| --- | --- | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/104212130?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/104212130?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/104212130?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/104212130?v=4" width="100" height="100"> |
-
 <h3 align="center">Completed Projects</h3>
 
 - ✅ <u><a href="https://wellness-gym.vercel.app/">**Wellness Gym App**</a></u>: a Typescript app in React, using Tailwindcss.
