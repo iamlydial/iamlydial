@@ -19,7 +19,6 @@
 <h3 align="center">Completed Projects</h3>
 
 - ✅ <u><a href="https://wellness-gym.vercel.app/">**Wellness Gym App**</a></u>: a Typescript app in React, using Tailwindcss.
-![WellnessGym](https://private-user-images.githubusercontent.com/15132045/275331568-e21a3e8c-19be-4efd-b76c-b91d007618ec.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTczNzk4MjMsIm5iZiI6MTY5NzM3OTUyMywicGF0aCI6Ii8xNTEzMjA0NS8yNzUzMzE1NjgtZTIxYTNlOGMtMTliZS00ZWZkLWI3NmMtYjkxZDAwNzYxOGVjLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEwMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMDE1VDE0MTg0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjNmY4YWE2OWFmODZjNzNlOWY0MGQ1YWQyZDI0ZDc1OTE2MDJlODgzYjg4MDExNGM0MTdhZjllNjA1MTAyMWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1TJBVnkZSTgJy0vU4cyWWjmOsVprwjGveQcKzvYpWk0)
 - ✅ <u><a href="https://threads-six-sigma.vercel.app/">**Thread Clone**</a></u>: a Thread clone app in Nextjs, using MongoDB.
 - ✅ <u><a href="https://cryptoapp-rho-topaz.vercel.app/">**Crypto App**</a></u>: a React app playing with the CoinRakinking and BingNews APIs.
 
