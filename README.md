@@ -19,7 +19,7 @@
 <h3 align="center">Completed Projects</h3>
 
 - ✅ <u><a href="https://wellness-gym.vercel.app/">**Wellness Gym App**</a></u>: a Typescript app in React, using Tailwindcss.
-![WellnessGym]([https://example.com/group_photo.jpg](https://drive.google.com/file/d/1Dy_LreJWmI6LvUrcrW0s3pC0pu9v9fBj/view?usp=sharing))
+![WellnessGym](https://drive.google.com/file/d/1Dy_LreJWmI6LvUrcrW0s3pC0pu9v9fBj/view?usp=sharing)
 - ✅ <u><a href="https://threads-six-sigma.vercel.app/">**Thread Clone**</a></u>: a Thread clone app in Nextjs, using MongoDB.
 - ✅ <u><a href="https://cryptoapp-rho-topaz.vercel.app/">**Crypto App**</a></u>: a React app playing with the CoinRakinking and BingNews APIs.
 
