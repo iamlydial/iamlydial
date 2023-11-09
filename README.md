@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamlydial&theme=tokyonight" alt="iamlydial" /></a> </p>
 
-- 🔭 I’m currently working on **Building a <a href="https://wellness-gym.vercel.app/">Python Live Chat Room Tutorial Using Flask & SocketIO</a>**
+- 🔭 I’m currently working on **Building a Django Channels Real-time Communication Project: Building a Chat Website**
 - 👯 I’m looking to collaborate on **Cool Projects**
 - 🌱 I’m currently learning **Nextjs, Django, C**
 - 👩‍💻 I love Working on Web & App Development
