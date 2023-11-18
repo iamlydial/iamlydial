@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamlydial&theme=tokyonight" alt="iamlydial" /></a> </p>
 
-- 🔭 I’m currently working on **Building a Django Channels Real-time Communication Project: Building a Chat Website**
+- 🔭 I’m currently working on <a href="https://nike-black.vercel.app/">**A clone of Nike page to practice Tailwindcss**</a>
 - 👯 I’m looking to collaborate on **Cool Projects**
 - 🌱 I’m currently learning **Nextjs, Django, C**
 - 👩‍💻 I love Working on Web & App Development
@@ -17,6 +17,7 @@
 
 <h3 align="center">Completed Projects</h3>
 
+- ✅ <u><a href="https://github.com/iamlydial/jatte">**Jatte:** A Django Channels Real-time Communication App using Digital Ocean. 
 - ✅ <u><a href="https://wellness-gym.vercel.app/">**Wellness Gym App**</a></u>: a Typescript app in React, using Tailwindcss.
 - ✅ <u><a href="https://threads-six-sigma.vercel.app/">**Thread Clone**</a></u>: a Thread clone app in Nextjs, using MongoDB.
 - ✅ <u><a href="https://cryptoapp-rho-topaz.vercel.app/">**Crypto App**</a></u>: a React app playing with the CoinRakinking and BingNews APIs.
