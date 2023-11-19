@@ -15,7 +15,7 @@
 - I love wellness, outdoor activities and food 🐼
 - English, Spanish, Italian, French and German speaker 🙃
 
-<h3 align="center">Completed Projects</h3>
+<h2 align="center">Completed Projects</h2>
 - ⏳ <u><a href="https://nike-black.vercel.app/"><strong>Nike</strong></a>: A clone of Nike page to practice Tailwindcss.
   
 ![Image](https://github.com/iamlydial/portfolio/assets/15132045/2f586a6c-337d-43b6-9f7c-2749cc3b5c07)
