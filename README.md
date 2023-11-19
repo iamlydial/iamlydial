@@ -16,26 +16,15 @@
 - English, Spanish, Italian, French and German speaker 🙃
 
 <h3 align="center">Completed Projects</h3>
-
-- ✅ <u><a href="https://github.com/iamlydial/jatte">**Jatte:**</a> A Django Channels Real-time Communication App using Digital Ocean.
-
-  <table style="width:100%;">
-  <tr>
-    <td style="border: 1px solid #ccc; padding: 10px;">![Image](https://github.com/iamlydial/portfolio/assets/15132045/2f586a6c-337d-43b6-9f7c-2749cc3b5c07)</td>
-    <td style="border: 1px solid #ccc; padding: 10px;">![Image](https://github.com/iamlydial/portfolio/assets/15132045/2f586a6c-337d-43b6-9f7c-2749cc3b5c07)</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ccc; padding: 10px;">![Image](https://github.com/iamlydial/portfolio/assets/15132045/2f586a6c-337d-43b6-9f7c-2749cc3b5c07)</td>
-    <td style="border: 1px solid #ccc; padding: 10px;">![Image](https://github.com/iamlydial/portfolio/assets/15132045/2f586a6c-337d-43b6-9f7c-2749cc3b5c07)</td>
-  </tr>
-</table>
-
+- ⏳ <u><a href="https://nike-black.vercel.app/">**Nike**</a>: A clone of Nike page to practice Tailwindcss.
+![Image](https://github.com/iamlydial/portfolio/assets/15132045/2f586a6c-337d-43b6-9f7c-2749cc3b5c07)
+- ✅ <u><a href="https://github.com/iamlydial/jatte">**Jatte**</a>: A Django Channels Real-time Communication App using Digital Ocean.
 - ✅ <u><a href="https://wellness-gym.vercel.app/">**Wellness Gym App**</a></u>: a Typescript app in React, using Tailwindcss.
 - ✅ <u><a href="https://threads-six-sigma.vercel.app/">**Thread Clone**</a></u>: a Thread clone app in Nextjs, using MongoDB.
 - ✅ <u><a href="https://cryptoapp-rho-topaz.vercel.app/">**Crypto App**</a></u>: a React app playing with the CoinRakinking and BingNews APIs.
 
 
-<div> <a href="https://www.linkedin.com/in/ydialavecchia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/lydialavecchia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/iamlydial" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
