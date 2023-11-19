@@ -16,7 +16,7 @@
 - English, Spanish, Italian, French and German speaker 🙃
 
 <h3 align="center">Completed Projects</h3>
-- ⏳ <u><a href="https://nike-black.vercel.app/">**Nike**</a>: A clone of Nike page to practice Tailwindcss.
+- ⏳ <u><a href="https://nike-black.vercel.app/"><h4>Nike</h4></a>: A clone of Nike page to practice Tailwindcss.
   
 ![Image](https://github.com/iamlydial/portfolio/assets/15132045/2f586a6c-337d-43b6-9f7c-2749cc3b5c07)
 
