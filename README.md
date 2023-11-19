@@ -18,7 +18,18 @@
 <h3 align="center">Completed Projects</h3>
 
 - ✅ <u><a href="https://github.com/iamlydial/jatte">**Jatte:**</a> A Django Channels Real-time Communication App using Digital Ocean.
-![Image](https://github.com/iamlydial/portfolio/assets/15132045/2f586a6c-337d-43b6-9f7c-2749cc3b5c07)
+
+  <table style="width:100%;">
+  <tr>
+    <td style="border: 1px solid #ccc; padding: 10px;">![Image](https://github.com/iamlydial/portfolio/assets/15132045/2f586a6c-337d-43b6-9f7c-2749cc3b5c07)</td>
+    <td style="border: 1px solid #ccc; padding: 10px;">![Image](https://github.com/iamlydial/portfolio/assets/15132045/2f586a6c-337d-43b6-9f7c-2749cc3b5c07)</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ccc; padding: 10px;">![Image](https://github.com/iamlydial/portfolio/assets/15132045/2f586a6c-337d-43b6-9f7c-2749cc3b5c07)</td>
+    <td style="border: 1px solid #ccc; padding: 10px;">![Image](https://github.com/iamlydial/portfolio/assets/15132045/2f586a6c-337d-43b6-9f7c-2749cc3b5c07)</td>
+  </tr>
+</table>
+
 - ✅ <u><a href="https://wellness-gym.vercel.app/">**Wellness Gym App**</a></u>: a Typescript app in React, using Tailwindcss.
 - ✅ <u><a href="https://threads-six-sigma.vercel.app/">**Thread Clone**</a></u>: a Thread clone app in Nextjs, using MongoDB.
 - ✅ <u><a href="https://cryptoapp-rho-topaz.vercel.app/">**Crypto App**</a></u>: a React app playing with the CoinRakinking and BingNews APIs.
