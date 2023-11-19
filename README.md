@@ -17,7 +17,7 @@
 
 <h2 align="center">Completed Projects</h2>
 - ⏳ <u><a href="https://nike-black.vercel.app/"><strong>Nike</strong></a>: A clone of Nike page to practice Tailwindcss.
-<div style="border: 3px solid black;">
+<div style="border: 3px solid #000000;">
 ![Image](https://github.com/iamlydial/portfolio/assets/15132045/2f586a6c-337d-43b6-9f7c-2749cc3b5c07)
 </div>
 - ✅ <u><a href="https://github.com/iamlydial/jatte">**Jatte**</a>: A Django Channels Real-time Communication App using Digital Ocean.
