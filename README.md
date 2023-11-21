@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamlydial&theme=tokyonight" alt="iamlydial" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/iamlydial/ecommerce">**Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payment**</a>
+- 🔭 I’m currently working on <a href="https://github.com/iamlydial/ecommerce">**Responsive FULLSTACK Strapi <> React Ecommerce App, with Stripe Payment**</a>
 - 👯 I’m looking to collaborate on **Cool Projects**
 - 🌱 I’m currently learning **Nextjs, Django, C**
 - 👩‍💻 I love Working on Web & App Development
