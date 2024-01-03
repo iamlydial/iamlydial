@@ -17,11 +17,12 @@
 
 <h2 align="center">Completed Projects</h2>
 
-- ✅ <u><a href="https://nike-black.vercel.app/"><strong>Nike</strong></a>: A clone of Nike page to practice Tailwindcss.
-- ✅ <u><a href="https://github.com/iamlydial/jatte">**Jatte**</a>: A Django Channels Real-time Communication App using Digital Ocean.
-- ✅ <u><a href="https://wellness-gym.vercel.app/">**Wellness Gym App**</a></u>: a Typescript app in React, using Tailwindcss.
-- ✅ <u><a href="https://threads-six-sigma.vercel.app/">**Thread Clone**</a></u>: a Thread clone app in Nextjs, using MongoDB.
-- ✅ <u><a href="https://cryptoapp-rho-topaz.vercel.app/">**Crypto App**</a></u>: a React app playing with the CoinRakinking and BingNews APIs.
+- ✅ [**Nike**](https://nike-black.vercel.app/): A clone of Nike page to practice Tailwindcss.
+- ✅ [**Jatte**](https://github.com/iamlydial/jatte): A Django Channels Real-time Communication App using Digital Ocean.
+- ✅ [**Wellness Gym App**](https://wellness-gym.vercel.app/): a Typescript app in React, using Tailwindcss.
+- ✅ [**Thread Clone**](https://threads-six-sigma.vercel.app/): a Thread clone app in Next.js, using MongoDB.
+- ✅ [**Crypto App**](https://cryptoapp-rho-topaz.vercel.app/): a React app playing with the CoinRakinking and BingNews APIs.
+
 
 
 <div> <a href="https://www.linkedin.com/in/lydialavecchia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
