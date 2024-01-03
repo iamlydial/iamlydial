@@ -16,6 +16,7 @@
 - English, Spanish, Italian, French and German speaker 🙃
 
 <h2 align="center">Completed Projects</h2>
+
 - ✅ <u><a href="https://nike-black.vercel.app/"><strong>Nike</strong></a>: A clone of Nike page to practice Tailwindcss.
 - ✅ <u><a href="https://github.com/iamlydial/jatte">**Jatte**</a>: A Django Channels Real-time Communication App using Digital Ocean.
 - ✅ <u><a href="https://wellness-gym.vercel.app/">**Wellness Gym App**</a></u>: a Typescript app in React, using Tailwindcss.
