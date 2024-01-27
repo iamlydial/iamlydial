@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/iamlydial/ecommerce">**Responsive FULLSTACK Strapi <> React Ecommerce App, with Stripe Payment**</a>
 - 👯 I’m looking to collaborate on **Cool Projects**
-- 🌱 I’m currently learning **Nextjs, Django, C**
+- 🌱 I’m currently learning Java, Angular, R
 - 👩‍💻 I love Working on Web & App Development
 - 🎯 Goal : To be a better Developer
 - 📫 How to reach me : <a href="https://iamlydial.github.io/portfolio/#contact"> Here!</a>
