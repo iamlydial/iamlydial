@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamlydial&theme=tokyonight" alt="iamlydial" /></a> </p>
 
 - 🔭 I’m currently working on <a href="https://github.com/iamlydial/java-weather-app">**Java Weather APP**</a>
+- 📚 I’m currently studying and working with **Java** and **Angular**
 - 👯 I’m looking to collaborate on **Cool Projects**
 - 🌱 I’m currently learning Java, Angular, R
 - 👩‍💻 I love Working on Web & App Development
