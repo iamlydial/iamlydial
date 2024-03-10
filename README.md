@@ -18,7 +18,8 @@
 
 <h2 align="center">Completed Projects</h2>
 
-- ✅ [**Angular Calculator**](https://angular-calculator-six.vercel.app/): An Angular Calculator, with Tailwind css stylying.
+- ✅ [**Angular Meme Generator**]([https://angular-calculator-six.vercel.app/](https://meme-generator-amber-psi.vercel.app/)): An Angular meme Generator, with Bootstrap Css framework. 
+- ✅ [**Angular Calculator**](https://angular-calculator-six.vercel.app/): An Angular Calculator, with Tailwind css styling.
 - ✅ [**Material UI Demo**](https://material-ui-demo-rosy.vercel.app/): An Material UI Demo to practive components.
 - ✅ [**Nike**](https://nike-black.vercel.app/): A clone of Nike page to practice Tailwindcss.
 - ✅ [**Jatte**](https://github.com/iamlydial/jatte): A Django Channels Real-time Communication App using Digital Ocean.
