@@ -18,6 +18,7 @@
 
 <h2 align="center">Completed Projects</h2>
 
+- ✅ [**Angular Calculator**](https://angular-calculator-six.vercel.app/): An Angular Calculator, with Tailwind css stylying.
 - ✅ [**Nike**](https://nike-black.vercel.app/): A clone of Nike page to practice Tailwindcss.
 - ✅ [**Jatte**](https://github.com/iamlydial/jatte): A Django Channels Real-time Communication App using Digital Ocean.
 - ✅ [**Wellness Gym App**](https://wellness-gym.vercel.app/): a Typescript app in React, using Tailwindcss.
