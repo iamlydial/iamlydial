@@ -18,14 +18,14 @@
 
 <h2 align="center">Completed Projects</h2>
 
-- ✅ [**Angular Meme Generator**](https://meme-generator-amber-psi.vercel.app/): An Angular meme Generator, with Bootstrap Css framework. 
-- ✅ [**Angular Calculator**](https://angular-calculator-six.vercel.app/): An Angular Calculator, with Tailwind css styling.
-- ✅ [**Material UI Demo**](https://material-ui-demo-rosy.vercel.app/): An Material UI Demo to practive components.
-- ✅ [**Nike**](https://nike-black.vercel.app/): A clone of Nike page to practice Tailwindcss.
-- ✅ [**Jatte**](https://github.com/iamlydial/jatte): A Django Channels Real-time Communication App using Digital Ocean.
-- ✅ [**Wellness Gym App**](https://wellness-gym.vercel.app/): a Typescript app in React, using Tailwindcss.
-- ✅ [**Thread Clone**](https://threads-six-sigma.vercel.app/): a Thread clone app in Next.js, using MongoDB.
-- ✅ [**Crypto App**](https://cryptoapp-rho-topaz.vercel.app/): a React app playing with the CoinRakinking and BingNews APIs.
+- ✅ [**Angular Meme Generator**](https://meme-generator-amber-psi.vercel.app/){:target="_blank"}: An Angular meme Generator, with Bootstrap Css framework.
+- ✅ [**Angular Calculator**](https://angular-calculator-six.vercel.app/){:target="_blank"}: An Angular Calculator, with Tailwind css styling.
+- ✅ [**Material UI Demo**](https://material-ui-demo-rosy.vercel.app/){:target="_blank"}: An Material UI Demo to practice components.
+- ✅ [**Nike**](https://nike-black.vercel.app/){:target="_blank"}: A clone of Nike page to practice Tailwindcss.
+- ✅ [**Jatte**](https://github.com/iamlydial/jatte){:target="_blank"}: A Django Channels Real-time Communication App using Digital Ocean.
+- ✅ [**Wellness Gym App**](https://wellness-gym.vercel.app/){:target="_blank"}: a Typescript app in React, using Tailwindcss.
+- ✅ [**Thread Clone**](https://threads-six-sigma.vercel.app/){:target="_blank"}: a Thread clone app in Next.js, using MongoDB.
+- ✅ [**Crypto App**](https://cryptoapp-rho-topaz.vercel.app/){:target="_blank"}: a React app playing with the CoinRakinking and BingNews APIs.
 
 
 
