@@ -17,7 +17,8 @@
 - English, Spanish, Italian, French and German speaker 🙃
 
 <h2 align="center">Completed Projects</h2>
-
+- ✅ [**Vexel**](https://lldigitalagency.com/): A Wordpress Elementor website for a virtual agency.
+- ✅ [**Trello - Clone**](https://github.com/iamlydial/trello-clone): A Wordpress Elementor website for a virtual agency
 - ✅ [**Angular Meme Generator**](https://meme-generator-amber-psi.vercel.app/): An Angular meme Generator, with Bootstrap Css framework. 
 - ✅ [**Angular Calculator**](https://angular-calculator-six.vercel.app/): An Angular Calculator, with Tailwind css styling.
 - ✅ [**Material UI Demo**](https://material-ui-demo-rosy.vercel.app/): An Material UI Demo to practive components.
