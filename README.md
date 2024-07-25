@@ -5,8 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamlydial&theme=tokyonight" alt="iamlydial" /></a> </p>
 
-- 🔭 I’m currently working on **Trello Clone: Full Stack Angular Typescript Project**
-- 📚 I’m currently studying and working with **Java** and **Angular**
+- 🔭 I’m currently working on **Fullstack Angular and Firebase Blog app with Login and Dashboard**
+- 🧑‍🎨 I’m currently designing a **Mobile Grocery App on Figma** --> [here](https://www.figma.com/design/z5i2itaNJLVsuav7CikEqE/Food-App-Design?node-id=0-1&m=dev&t=sYGzrksFfcvJT49M-1)
+- 📚 I’m currently studying and working with **Java**, **Angular** and  **Figma**
 - 👯 I’m looking to collaborate on **Cool Projects**
 - 🌱 I’m currently learning Java, Angular, R
 - 👩‍💻 I love Working on Web & App Development
