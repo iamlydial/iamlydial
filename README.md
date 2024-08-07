@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamlydial&theme=tokyonight" alt="iamlydial" /></a> </p>
 
-- 🔭 I’m currently working on **Next JS Prompt Dasgboard**
+- 🔭 I’m currently working on **Next JS Prompt Dashboard**
 - 🧑‍🎨 I’m currently designing a **Mobile Grocery App on Figma** --> [here](https://www.figma.com/design/z5i2itaNJLVsuav7CikEqE/Food-App-Design?node-id=0-1&m=dev&t=sYGzrksFfcvJT49M-1)
 - 📚 I’m currently studying and working with **Java**, **Angular** and  **Figma**
 - 👯 I’m looking to collaborate on **Cool Projects**
@@ -19,7 +19,8 @@
 
 <h2 align="center">Completed Projects</h2>
 
-- ✅ [**Angular-Blog**](https://ang-blog-c2180.web.app/): An Angular Blog App with Firebase Authentication, Database and Hosting Solution.
+- ✅ [**1-Angular-Blog-Frontend**](https://ang-blog-c2180.web.app/): An Angular Blog App with Firebase Authentication, Database and Hosting Solution.
+- ✅ [**2-Angular-Blog-dashboard**](https://and-blog-dashboard-123.web.app/login): An Angular Blog Dashboard App with Firebase CRUD operations and Firebase Hosting multiple apps deployed Solution.
 - ✅ [**Vexel**](https://lldigitalagency.com/): A Wordpress Elementor website for a virtual agency.
 - ✅ [**Trello - Clone**](https://github.com/iamlydial/trello-clone): A Wordpress Elementor website for a virtual agency.
 - ✅ [**Angular Meme Generator**](https://meme-generator-amber-psi.vercel.app/): An Angular meme Generator, with Bootstrap Css framework. 
