@@ -19,6 +19,7 @@
 
 <h2 align="center">Completed Projects</h2>
 
+- ✅ [**Angular-Blog**](https://ang-blog-c2180.web.app/): A Angular Blog App with Firebase Database and Hosting Solution.
 - ✅ [**Vexel**](https://lldigitalagency.com/): A Wordpress Elementor website for a virtual agency.
 - ✅ [**Trello - Clone**](https://github.com/iamlydial/trello-clone): A Wordpress Elementor website for a virtual agency.
 - ✅ [**Angular Meme Generator**](https://meme-generator-amber-psi.vercel.app/): An Angular meme Generator, with Bootstrap Css framework. 
