@@ -22,6 +22,7 @@
 <h2 align="center">Completed Projects</h2>
 
 
+- ✅ [**Java Spring Boot, React, and MongoDB Movie API app**](https://github.com/iamlydial/react-java-mongo-movie-review-app): A Full Stack App with Java Spring Boot, React, and MongoDB.
 - ✅ [**Next-JS AI Prompts**](https://share-ai-prompts-ma65fgngr-iamlydials-projects.vercel.app/): A NextJS, Mongo using the Official React Framework.
 - ✅ [**1-Angular-Blog-Frontend**](https://ang-blog-c2180.web.app/): An Angular Blog App with Firebase Authentication, Database and Hosting Solution.
 - ✅ [**2-Angular-Blog-dashboard**](https://and-blog-dashboard-123.web.app/login): An Angular Blog Dashboard App with Firebase CRUD operations and Firebase Hosting multiple apps deployed Solution.
