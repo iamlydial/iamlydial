@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamlydial&theme=tokyonight" alt="iamlydial" /></a> </p>
 
 - 🔭 I’m currently working on a **Java desktop application Banking Management App**
-- 🔭 I’m currently working on a **MERN Real Estate Marketplace**
 - 🧑‍🎨 I’m currently designing a **Mobile Grocery App on Figma** --> [here](https://www.figma.com/design/z5i2itaNJLVsuav7CikEqE/Food-App-Design?node-id=0-1&m=dev&t=sYGzrksFfcvJT49M-1)
 - 📚 I’m currently reading **Java in a nutshell**
 - 📚 I’m currently reading **Cracking the Coding Interview, in Java**
@@ -22,6 +21,7 @@
 
 <h2 align="center">Completed Projects</h2>
 
+- ✅ [**MERN Estates**](https://developers.idealista.com/access-request): A Full Stack App in React, TailwindCSS, NodeJS, MONGODB, Firebase. 
 - ✅ [**Dayventure**](https://dayventure.net/): A Full Stack App in React, Python and Django. Using Tailwind and GoogleMap API.
 - ✅ [**Java Spring Boot, React, and MongoDB Movie API app**](https://github.com/iamlydial/react-java-mongo-movie-review-app): A Full Stack App with Java Spring Boot, React, and MongoDB.
 - ✅ [**Next-JS AI Prompts**](https://share-ai-prompts-psi.vercel.app/): A NextJS, Mongo using the Official React Framework.
