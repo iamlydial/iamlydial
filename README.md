@@ -21,6 +21,7 @@
 
 <h2 align="center">Completed Projects</h2>
 
+- ✅ [**AI Resume Builder**](https://ai-resume-builder-fx0p.onrender.com/): A Full Stack App in React, TailwindCSS, Strapi, MySQL, Clerk Auth. 
 - ✅ [**MERN Estates**](https://developers.idealista.com/access-request): A Full Stack App in React, TailwindCSS, NodeJS, MONGODB, Firebase. 
 - ✅ [**Dayventure**](https://dayventure.net/): A Full Stack App in React, Python and Django. Using Tailwind and GoogleMap API.
 - ✅ [**Java Spring Boot, React, and MongoDB Movie API app**](https://github.com/iamlydial/react-java-mongo-movie-review-app): A Full Stack App with Java Spring Boot, React, and MongoDB.
